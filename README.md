@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoahZCain
+- 👋 Hi, I’m @NoahZCain (they/them)
 - 👀 I’m interested in Software Development and how to use that to help those in need.
 - 🌱 I’m currently learning Software Engineering with Java/AWS specialization
 - 📫 How to reach me- Connect with me on LinkedIn https://www.linkedin.com/in/noah-cain-9b3398b9/ or email- nzcain30@gmail.com
